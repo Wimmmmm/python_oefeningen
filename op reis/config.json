@@ -2,13 +2,11 @@
   "description": {
     "difficulty": 0.5,
     "names": {
-      "nl": "Echo"
+      "nl": "Op reis"
     }
   },
   "evaluation": {
     "pythia_judge": "output"
   },
-  "pythia_id": "PROG0046",
-  "spoj_id": 9228,
   "visibility": "open"
 }
