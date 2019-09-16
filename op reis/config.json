@@ -8,5 +8,7 @@
   "evaluation": {
     "pythia_judge": "output"
   },
+  "pythia_id": "PROG4201",
+  "spoj_id": 4201,
   "visibility": "open"
 }
