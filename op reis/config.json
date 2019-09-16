@@ -2,13 +2,12 @@
   "description": {
     "difficulty": 0.5,
     "names": {
-      "nl": "Op reis"
+      "en": "Travel tales",
+      "nl": "Reisverhalen"
     }
   },
   "evaluation": {
     "pythia_judge": "output"
   },
-  "pythia_id": "PROG4201",
-  "spoj_id": 4201,
   "visibility": "open"
 }
