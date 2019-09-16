@@ -10,5 +10,12 @@
   },
   "pythia_id": "PROG0046",
   "spoj_id": 9228,
-  "visibility": "open"
+  "access": "public",
+  "internals": {
+    "token": "ePLPvH2M81Keem7dUm7FNShQ17WRGxngaU8YAFtKHWN4IC3GGvo/+gPhetbLQ1Ax",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
 }
